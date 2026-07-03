@@ -1,0 +1,4 @@
+jptest/
+wrfout_*
+geo_em.d*.nc
+*.nc

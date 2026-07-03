@@ -1,0 +1,11 @@
+source /public4/soft/modules/module.sh
+module avail wps
+module load wps/4.2-kd-public4
+module avail wrf
+module load wrf/intel18/4.2-kd-public4
+cd /public4/home/a0s000697/soft/WPS-4.2
+
+
+piggy
+cd /opt/WRF-4.4.2/WPS
+open -e namelist.wps
